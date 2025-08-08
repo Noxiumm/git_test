@@ -1,0 +1,17 @@
+[33mcommit b5433d9c786e48a0b1d2105c61bfb8f461a7a892[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Noxium <chriscold565@gmail.com>
+Date:   Fri Aug 8 13:41:52 2025 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 9e48bd0ba9609fbbd8e201dbd6446eb277f09b13[m
+Author: Noxium <chriscold565@gmail.com>
+Date:   Fri Aug 8 13:34:07 2025 -0400
+
+    Add hello_world.txt
+
+[33mcommit 2728c261d127a17f569ce33ee91a35913103e53b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Noxiumm <125501258+Noxiumm@users.noreply.github.com>
+Date:   Fri Aug 8 13:26:02 2025 -0400
+
+    Initial commit
